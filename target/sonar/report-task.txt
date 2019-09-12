@@ -1,0 +1,6 @@
+projectKey=wordguesser:wordguesser
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/wordguesser:wordguesser
+ceTaskId=AWztvgP-MpDhj46OfFDb
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWztvgP-MpDhj46OfFDb
